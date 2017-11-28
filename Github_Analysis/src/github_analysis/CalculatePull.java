@@ -46,7 +46,7 @@ import com.google.gson.JsonParser;
 
 public class CalculatePull {
                   
-                private static String Tokenkey = "61b60cc1994a1fdcbe76f36d4a91666d34dc9e34";
+                private static String Tokenkey = "";
                 
                 public static void main(String[] args) throws  ParseException {
                     try {
