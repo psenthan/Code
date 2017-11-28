@@ -33,7 +33,7 @@ import com.google.gson.JsonParser;
 
 public class PullReq_Manipulate {
           
-        private static String Tokenkey = "d7d3fadfe2613e5214d6e8fcb0e4f1c699fe021f";
+        private static String Tokenkey = "";
         
         public static void main(String[] args) {
             getPull();         
